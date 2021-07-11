@@ -1,3 +1,9 @@
+# define
+*.idea
+pom.xml
+test/
+resources/
+
 # Build and Release Folders
 bin-debug/
 bin-release/
